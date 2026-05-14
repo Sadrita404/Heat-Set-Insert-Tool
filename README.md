@@ -27,4 +27,4 @@
 | 6mm 2GT Belt approx 410mm | Mechanical | 1 | $0.89 | [Link](https://robocraze.com/products/1-meter-x-gt2-open-timing-belt-6mm-width-pitch-2mm-for-3d-printer?variant=40193533542553&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqXa-5g8ba2eMZ7e2c-EX_K1QiB3ynvD5_qp9VDj2QxZVfcF-bCPjU) | RoboCraze |
 | 3mm ID Idler 6mm smooth 2gt | Mechanical | 2 | $2.02 | [Link](https://robu.in/product/16teeth-gt2-perlin-pulley-with-teeth-3mm-bore?gbraid=0AAAAADvLFWf5BrujQs1NI8w0FVOg5qjEF&gad_source=1&gad_campaignid=17427803012&gclid=Cj0KCQjw2YDQBhD_ARIsAE1qeSfFEG8A9gEW5-aW8qiv1fVP_5CLw85BtHUG4RC6R44HquqzcPDsKPAaAv1BEALw_wcB) | Robu |
 | M3 X 4mm Threaded Insert | Mechanical | 20 | $1.05 | [Link](https://onlyscrews.in/products/m3-x-4mm-3d-printing-brass-threaded-inserts-dia-3mm-length-4mm) | OnlyScrews |
-| 3mm ID Rubber Foot | Mechanical | 1 | Self Sourced | - | Self Sourced |
+| 3mm ID Rubber Foot | Mechanical | 4 | Self Sourced | - | Self Sourced |
