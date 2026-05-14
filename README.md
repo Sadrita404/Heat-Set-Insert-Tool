@@ -2,9 +2,40 @@
 
 
  ---
+|Title | Split-Keyboard|
+|:-- |:--|
+|Project Link |  [Link](https://forge.hackclub.com/projects/300) |
+|Author | Sadrita Neogi|
+|Platform | Forge|
+|Tire | 4|
 
- 
- 
+---
+ ## Overview
+ A heat set insert pressing machine is a specialized tool used to install threaded brass inserts into 3D-printed or plastic parts. It uses a heated tip to press the metal insert into the plastic, which melts the surrounding material to create a strong, permanent threaded connection
+
+---
+
+## Project Inspiration
+
+<img width="1428" height="844" alt="image" src="https://github.com/user-attachments/assets/79e4aea9-f89f-42e9-96bc-9ca5c6683640" />
+
+---
+## Project Screenshot
+<img width="1113" height="510" alt="Screenshot 2026-05-14 at 10 47 48 PM" src="https://github.com/user-attachments/assets/b5de28c7-7f10-4069-80e3-05761ff95818" />
+
+
+
+
+
+
+
+---
+
+
+## Assembly Instructions :- [LINK ](https://github.com/Sadrita404/Heat-Set-Insert-Tool/blob/main/ASSEMBLY%20INSTRUCTION/Assembly%20%20Instruction%20Guide.pdf)
+
+---
+## BOM ( Bill of Material )
  
  | Name | Purpose | Qty | Total Price (USD) | Component Link | Distributor |
 |------|------|------|------|------|------|
@@ -28,3 +59,15 @@
 | 3mm ID Idler 6mm smooth 2gt | Mechanical | 2 | $2.02 | [Link](https://robu.in/product/16teeth-gt2-perlin-pulley-with-teeth-3mm-bore?gbraid=0AAAAADvLFWf5BrujQs1NI8w0FVOg5qjEF&gad_source=1&gad_campaignid=17427803012&gclid=Cj0KCQjw2YDQBhD_ARIsAE1qeSfFEG8A9gEW5-aW8qiv1fVP_5CLw85BtHUG4RC6R44HquqzcPDsKPAaAv1BEALw_wcB) | Robu |
 | M3 X 4mm Threaded Insert | Mechanical | 20 | $1.05 | [Link](https://onlyscrews.in/products/m3-x-4mm-3d-printing-brass-threaded-inserts-dia-3mm-length-4mm) | OnlyScrews |
 | 3mm ID Rubber Foot | Mechanical | 4 | Self Sourced | - | Self Sourced |
+|  Total    |       |       |          |         |     $27.40    |
+|  Round Off Total (USD)    |       |       |          |          |        $28  |
+
+## For 3d Printing I have use Legion where the cost is included in the Shipping
+|Tax (USD)| Shipping (USD)|
+|:-- | :--|
+|$6  |   $4|
+| Round Off Total (USD)   |  $28  |
+
+---
+#### Under 
+<a href="https://hackclub.com/"><img style="position: absolute; top: 0; left: 10px; border: 0; width: 256px; z-index: 999;" src="https://assets.hackclub.com/flag-orpheus-left.svg" alt="Hack Club"/></a>
