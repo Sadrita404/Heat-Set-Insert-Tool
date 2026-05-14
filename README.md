@@ -1,3 +1,11 @@
+<img width="2940" height="1240" alt="Heat Set Insert Tool" src="https://github.com/user-attachments/assets/e0349c39-1920-470d-bd41-7214fab74689" />
+
+
+ ---
+
+ 
+ 
+ 
  | Name | Purpose | Qty | Total Price (USD) | Component Link | Distributor |
 |------|------|------|------|------|------|
 | M5 Nut | Fixings | 6 | $0.06 | [Link](https://onlyscrews.in/products/m5-hex-nut-mild-steel-grey-dia-5mm?currency=INR&country=IN&variant=50254623572281&stkn=6e84ebfba1b8&utm_campaign=BHM&gad_source=1&gad_campaignid=22821627833&gbraid=0AAAAA9sP2SQd_JBhsaZf7G_B5stt0_fPp&gclid=Cj0KCQjw2YDQBhD_ARIsAE1qeSc-8ySaeiQaeZX6wRMEdPKH7jUOjvapPwQagyfSmbpbcyxwZE0e9ksaAsUEEALw_wcB) | OnlyScrews |
