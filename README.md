@@ -60,13 +60,13 @@
 | M3 X 4mm Threaded Insert | Mechanical | 20 | $1.05 | [Link](https://onlyscrews.in/products/m3-x-4mm-3d-printing-brass-threaded-inserts-dia-3mm-length-4mm) | OnlyScrews |
 | 3mm ID Rubber Foot | Mechanical | 4 | Self Sourced | - | Self Sourced |
 |  Total    |       |       |          |         |     $27.40    |
-|  Round Off Total (USD)    |       |       |          |          |        $28  |
+|  Round Off Total (USD)    |       |       |          |          |        $31 |
 
 ## For 3d Printing I have use Legion where the cost is included in the Shipping
 |Tax (USD)| Shipping (USD)|
 |:-- | :--|
-|$6  |   $4|
-| Round Off Total (USD)   |  $28  |
+|$6.5  |   $6.03|
+| Round Off Total (USD)   |  $31  |
 
 ---
 #### Under 
