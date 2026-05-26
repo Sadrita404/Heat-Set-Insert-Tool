@@ -29,7 +29,7 @@
 ---
 ## Poster
 
-<img width="1587" height="2245" alt="Heat Set Insert Poster " src="https://github.com/user-attachments/assets/871a9028-8a81-4c2c-bdcd-9deb4611146d" />
+<img width="397" height="561" alt="Heat Set Insert Poster " src="https://github.com/user-attachments/assets/871a9028-8a81-4c2c-bdcd-9deb4611146d" />
 
 
 ---
