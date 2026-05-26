@@ -2,7 +2,7 @@
 
 
  ---
-|Title | Split-Keyboard|
+|Title |Heat Set Insert Tool |
 |:-- |:--|
 |Project Link |  [Link](https://forge.hackclub.com/projects/300) |
 |Author | Sadrita Neogi|
