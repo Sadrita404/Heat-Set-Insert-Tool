@@ -5,10 +5,8 @@
  ---
 |Title |Heat Set Insert Tool |
 |:-- |:--|
-|Project Link |  [Link](https://forge.hackclub.com/projects/300) |
 |Author | Sadrita Neogi|
-|Platform | Forge|
-|Tire | 4|
+
 
 ---
  ## Overview
@@ -62,12 +60,13 @@
 | 3mm ID Rubber Foot | Mechanical | 4 | Self Sourced | - | Self Sourced |
 |  Total    |       |       |          |         |     $27.40    |
 |  Round Off Total (USD)    |       |       |          |          |        $31 |
+|  I will spend give $6 from my own  |       |       |          |    Round Off Total (USD)       |        $25 |
 
 ## For 3d Printing I have use Legion where the cost is included in the Shipping
 |Tax (USD)| Shipping (USD)|
 |:-- | :--|
 |$6.5  |   $6.03|
-| Round Off Total (USD)   |  $31  |
+| Round Off Total (USD)   |  $25  |
 
 ---
 #### Under 
