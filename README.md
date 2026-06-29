@@ -33,6 +33,28 @@
 ---
 ## Assembly Instructions :- [LINK ](https://github.com/Sadrita404/Heat-Set-Insert-Tool/blob/main/ASSEMBLY%20INSTRUCTION/Assembly%20%20Instruction%20Guide.pdf)
 
+
+---
+## Building 
+
+<img width="480" height="640" alt="20260626_174008" src="https://github.com/user-attachments/assets/22086925-553d-4b5e-aace-1cbea398feaa" />
+<img width="480" height="640" alt="20260626_174743" src="https://github.com/user-attachments/assets/286a70e1-9f2d-4daa-a76e-ef1243407937" />
+<img width="480" height="640" alt="20260626_174859" src="https://github.com/user-attachments/assets/1740ecd0-db7f-4051-a774-8012e5c23d6e" />
+
+<img width="480" height="640" alt="20260626_175459" src="https://github.com/user-attachments/assets/3dcb1b76-2962-4f4b-8b97-0e65278d665e" />
+
+<img width="480" height="640" alt="20260630_034209" src="https://github.com/user-attachments/assets/f57acf64-9515-420b-b7bb-8bb175eb294b" />
+
+<img width="600" height="769" alt="20260630_042602" src="https://github.com/user-attachments/assets/d53b8b03-2e8c-4715-bbfd-eb9a4d47a15c" />
+
+<img width="480" height="640" alt="20260630_042612" src="https://github.com/user-attachments/assets/c09a008c-be05-4c89-afdb-ac2f873bde28" />
+
+<img width="480" height="640" alt="20260630_042630" src="https://github.com/user-attachments/assets/1da1b9bc-e63e-4459-a878-cafc35adcd28" />
+
+<img width="480" height="640" alt="20260630_042746" src="https://github.com/user-attachments/assets/aaa9203f-1704-4d5b-ae84-38798b3d2a6d" />
+
+<img width="480" height="640" alt="20260630_042827" src="https://github.com/user-attachments/assets/7235fd6f-9b6a-437e-afae-f48e5cf27e56" />
+
 ---
 ## BOM ( Bill of Material )
  
